@@ -1,0 +1,23 @@
+table {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border-spacing: 20px 15px;
+}
+
+thead {
+    text-align: left;
+}
+
+.chatMessage {
+    position: relative;
+    text-align: left;
+}
+
+.clearName {
+    display: grid;
+    text-align: right;
+    font-size: small;
+    cursor: pointer;
+}

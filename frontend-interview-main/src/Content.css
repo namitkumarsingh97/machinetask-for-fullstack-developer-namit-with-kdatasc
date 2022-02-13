@@ -1,0 +1,8 @@
+/* .content {
+    margin: 0;
+    padding: 0;
+} */
+
+.content > p {
+    margin-top: 200px;
+}
